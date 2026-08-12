@@ -1,5 +1,5 @@
 import {useState,useEffect} from 'react'
-import PokemonList from './components/PokemonList'
+import PokemonList from './components/pokemondlist'
 
 function App(){
     const [pokemons,setPokemons]=useState([])
